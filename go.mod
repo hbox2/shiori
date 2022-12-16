@@ -1,4 +1,4 @@
-module github.com/go-shiori/shiori
+module github.com/hbox2/shiori
 
 // +heroku goVersion go1.18
 go 1.19
